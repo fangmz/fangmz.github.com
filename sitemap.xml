@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/08/16/post-title/</loc>
-        <lastmod>2013-08-16T22:29:27+08:00</lastmod>
+        <loc>http://fangmz.github.io/blog/2013/08/16/hello-world/</loc>
+        <lastmod>2013-08-16T23:12:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-08-16T22:29:27+08:00</lastmod>
+        <loc>http://fangmz.github.io/blog/2013/08/16/zhong-wen/</loc>
+        <lastmod>2013-08-16T23:14:49+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-08-16T22:29:27+08:00</lastmod>
+        <loc>http://fangmz.github.io/</loc>
+        <lastmod>2013-08-16T23:14:49+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
-        <lastmod>2013-08-16T22:26:29+08:00</lastmod>
+        <loc>http://fangmz.github.io/blog/archives/</loc>
+        <lastmod>2013-08-16T23:14:49+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fangmz.github.io/robots.txt</loc>
+        <lastmod>2013-08-16T23:05:03+08:00</lastmod>
     </url>
 </urlset>

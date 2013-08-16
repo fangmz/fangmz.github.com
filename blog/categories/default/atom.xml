@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Fang's Blog]]></title>
-  <link href="http://fangmz.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: default | Fang's Blog]]></title>
+  <link href="http://fangmz.github.io/blog/categories/default/atom.xml" rel="self"/>
   <link href="http://fangmz.github.io/"/>
   <updated>2013-08-16T23:15:13+08:00</updated>
   <id>http://fangmz.github.io/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[中文]]></title>
-    <link href="http://fangmz.github.io/blog/2013/08/16/zhong-wen/"/>
-    <updated>2013-08-16T23:14:00+08:00</updated>
-    <id>http://fangmz.github.io/blog/2013/08/16/zhong-wen</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello world.]]></title>

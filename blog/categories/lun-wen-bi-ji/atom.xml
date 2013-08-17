@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Fang's Blog]]></title>
-  <link href="http://fangmz.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 论文笔记 | Fang's Blog]]></title>
+  <link href="http://fangmz.github.io/blog/categories/lun-wen-bi-ji/atom.xml" rel="self"/>
   <link href="http://fangmz.github.io/"/>
   <updated>2013-08-17T19:37:34+08:00</updated>
   <id>http://fangmz.github.io/</id>
@@ -38,26 +38,6 @@
 
 <p><strong>意见评估:</strong><br/>
 使用已有研究成果：积极消极词汇表。定义情感评分为同时包含话题词汇与积极词汇的数量比上同时包含话题词汇与消极词汇的数量。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[中文]]></title>
-    <link href="http://fangmz.github.io/blog/2013/08/16/zhong-wen/"/>
-    <updated>2013-08-16T23:14:00+08:00</updated>
-    <id>http://fangmz.github.io/blog/2013/08/16/zhong-wen</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello world.]]></title>
-    <link href="http://fangmz.github.io/blog/2013/08/16/hello-world/"/>
-    <updated>2013-08-16T22:53:00+08:00</updated>
-    <id>http://fangmz.github.io/blog/2013/08/16/hello-world</id>
-    <content type="html"><![CDATA[<h1>Damn test</h1>
-
-<p>靠啊</p>
 ]]></content>
   </entry>
   
